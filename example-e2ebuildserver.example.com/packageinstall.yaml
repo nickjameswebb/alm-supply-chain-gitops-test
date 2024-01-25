@@ -6,7 +6,7 @@ spec:
   packageRef:
     refName: example-e2ebuildserver.example.com
     versionSelection:
-      constraints: 20240125212659.0.0
+      constraints: 20240125213808.0.0
       prereleases: {}
   serviceAccountName: default
   values:
